@@ -1,0 +1,2 @@
+France	has_capital	Paris
+Germany	neighbor	France

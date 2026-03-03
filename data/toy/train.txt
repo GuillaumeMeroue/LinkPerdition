@@ -1,0 +1,10 @@
+Paris	capital_of	France
+France	neighbor	Germany
+France	neighbor	Spain
+Berlin	capital_of	Germany
+Madrid	capital_of	Spain
+London	capital_of	UK
+UK	neighbor	France
+Rome	capital_of	Italy
+Italy	neighbor	France
+Germany	has_capital	Berlin

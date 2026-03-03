@@ -1,0 +1,33 @@
+{
+  "best": {
+    "seed_init": {},
+    "seed_neg": {},
+    "seed_order": {},
+    "seed_forward": {},
+    "all": {},
+    "Raw": {},
+    "Control_Reproc": {},
+    "Hardware": {}
+  },
+  "timestamp": 1764440686.3051279,
+  "median": {
+    "seed_init": {},
+    "seed_neg": {},
+    "seed_order": {},
+    "seed_forward": {},
+    "all": {},
+    "Raw": {},
+    "Control_Reproc": {},
+    "Hardware": {}
+  },
+  "worst": {
+    "seed_init": {},
+    "seed_neg": {},
+    "seed_order": {},
+    "seed_forward": {},
+    "all": {},
+    "Raw": {},
+    "Control_Reproc": {},
+    "Hardware": {}
+  }
+}
